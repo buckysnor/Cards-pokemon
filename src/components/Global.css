@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+
+.pokemon-card-container{
+
+
+
+background:linear-gradient(to right,pink,purple);
+width: 350px;
+height: auto;
+margin:50px;
+padding: 10px;
+border-radius: 10px;
+/* display: inline-block; */
+float:left;
+box-shadow: 0px 0px 10px black;
+
+
+
+
+}
+
+.fundo{
+
+
+    text-align: center;
+    background: linear-gradient(to right,rgb(233, 127, 145),purple);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    
+    }
+
+
+.image{
+
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+
+.content{
+
+
+background:linear-gradient(to right,pink,rgba(70, 0, 128, 0.897));
+padding: 10px;
+border-bottom-left-radius: 10px;
+box-shadow: 0px 0px 7px black;
+
+}
+
+
+
+.nome-do-pokemon{
+    
+    text-align: center;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 10px;
+}
+
+
+
+
+.tipo-do-pokemon{
+
+    background-color:rgb(32, 2, 2);
+    padding:7px;
+    color:white;
+    border-radius: 5px;
+    width:100px;
+    display:block;
+    text-align:center;
+    position:relative;
+    top:-75px;
+
+
+}
+
+
+
+.pokemon-logo{
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+
+
+.especialidade> p{
+    letter-spacing: 2px;
+   
+
+}
+
+
+
+
